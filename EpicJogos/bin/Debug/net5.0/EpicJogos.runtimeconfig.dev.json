@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\reval\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\reval\\.nuget\\packages"
+    ]
+  }
+}
